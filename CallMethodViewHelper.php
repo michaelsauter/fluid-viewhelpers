@@ -23,7 +23,7 @@ namespace F3\ViewHelperTest\ViewHelpers;
  *                                                                        */
 
 /**
- * Calls method on specified object
+ * Calls method on specified object and returns the result. 
  *
  * = Examples =
  *
