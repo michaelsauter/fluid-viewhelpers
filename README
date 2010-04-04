@@ -1,3 +1,6 @@
 A collection of Fluid ViewHelpers
+=================================
 
 When using a ViewHelper in your project, don't forget to adjust the namespace.
+
+CallMethodViewHelper: Calls a method (with arguments) on a given object and renders the result. 
