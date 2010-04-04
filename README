@@ -1,1 +1,3 @@
-A collection of FLuid ViewHelpers
+A collection of Fluid ViewHelpers
+
+When using a ViewHelper in your project, don't forget to adjust the namespace.
